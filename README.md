@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my porftolio.**
 
-- 🌱 I’m currently learning **Docker, MySQL, Typescript.**
+- 🌱 I’m currently learning **Docker, SQL, NodeJs.**
 
 - 💬 Ask me about **everything and i will study to bring you your answer.**
 
