@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **my porftolio.**
 
-- 🌱 I’m currently learning **Docker, SQL, NodeJs.**
+- 🌱 I’m currently learning **Java, Spring Boot.**
 
-- 💬 Ask me about **everything and i will study to bring you your answer.**
+- 💬 Ask me about **everything and i will study to bring your answer.**
 
 - 📫 How to reach me **guilhermesschiavon@gmail.com**
 
